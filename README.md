@@ -25,7 +25,7 @@ I'm Success Ahon a Full Stack Web Developer . I enjoy building software.
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/arudovwen/arudovwen/tree/main/resumes/SuccessAhon.pdf)
+- :paperclip: [My Resume/CV](https://github.com/arudovwen/arudovwen/tree/main/resumes/Success_Ahon.pdf)
 - :email: successahon@gmail.com
 
 
